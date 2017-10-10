@@ -1,0 +1,45 @@
+[submodule "prosemirror-commands"]
+	path = packages/prosemirror-commands
+	url = git@github.com:ProseMirror/prosemirror-commands.git
+[submodule "prosemirror-dropcursor"]
+	path = packages/prosemirror-dropcursor
+	url = git@github.com:ProseMirror/prosemirror-dropcursor.git
+[submodule "prosemirror-history"]
+	path = packages/prosemirror-history
+	url = git@github.com:ProseMirror/prosemirror-history.git
+[submodule "prosemirror-inputrules"]
+	path = packages/prosemirror-inputrules
+	url = git@github.com:ProseMirror/prosemirror-inputrules.git
+[submodule "prosemirror-keymap"]
+	path = packages/prosemirror-keymap
+	url = git@github.com:ProseMirror/prosemirror-keymap.git
+[submodule "prosemirror-markdown"]
+	path = packages/prosemirror-markdown
+	url = git@github.com:ProseMirror/prosemirror-markdown.git
+[submodule "prosemirror-menu"]
+	path = packages/prosemirror-menu
+	url = git@github.com:ProseMirror/prosemirror-menu.git
+[submodule "prosemirror-model"]
+	path = packages/prosemirror-model
+	url = git@github.com:ProseMirror/prosemirror-model.git
+[submodule "prosemirror-schema-basic"]
+	path = packages/prosemirror-schema-basic
+	url = git@github.com:ProseMirror/prosemirror-schema-basic.git
+[submodule "prosemirror-schema-list"]
+	path = packages/prosemirror-schema-list
+	url = git@github.com:ProseMirror/prosemirror-schema-list.git
+[submodule "prosemirror-state"]
+	path = packages/prosemirror-state
+	url = git@github.com:ProseMirror/prosemirror-state.git
+[submodule "prosemirror-test-builder"]
+	path = packages/prosemirror-test-builder
+	url = git@github.com:ProseMirror/prosemirror-test-builder.git
+[submodule "prosemirror-transform"]
+	path = packages/prosemirror-transform
+	url = git@github.com:ProseMirror/prosemirror-transform.git
+[submodule "prosemirror-view"]
+	path = packages/prosemirror-view
+	url = git@github.com:ProseMirror/prosemirror-view.git
+[submodule "website"]
+	path = packages/website
+	url = git@github.com:ProseMirror/website.git
